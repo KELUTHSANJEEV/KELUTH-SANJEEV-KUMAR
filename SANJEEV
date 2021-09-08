@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+ <head>
+   <title>sanjeevkumar</title>
+   <metac charset="utf-8">
+   <meta name="viewport"
+ content="width-device-width,
+ initial-scal=1.0>
+ </head>
+ <style>
+ body{
+   text-align:center;
+  }
+   h1{color:#4F6F6F;
+   
+   P{
+   color:grey;
+   }
+   
+   </style>
+   <body>
+      <h1>assignment-2</h1>
+      
+      <div class="card">
+      <img width=300
+      src="sanjeevkumar.jpeg">
+      <h2>sanjeevkumar</h3>
+      <p><i><b>computer science
+   Engineering</b><i></p>
+      <h3>national institution of
+    technology patna</h3>
+       </div>
+       
+       </body>
+       
+       </html>
